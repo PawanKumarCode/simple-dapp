@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <h1>This is a Simple Dapp</h1>
+        <h1>Mood setter Dapp</h1>
       </header>
 
       <main className="App-body">

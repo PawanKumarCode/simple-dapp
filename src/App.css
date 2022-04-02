@@ -36,6 +36,11 @@
   color: white;
 }
 
+.App-button {
+  width: 100%;
+  margin: 10px 0px 5px 0px;
+}
+
 .App-link {
   color: #61dafb;
 }
