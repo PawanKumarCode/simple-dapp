@@ -1,7 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
 import React, { useEffect, useState } from "react";
-import { ethers } from 'ethers';
+import { ethers } from "https://cdn.ethers.io/lib/ethers-5.2.esm.min.js";
 import MoodDiary from './utils/MoodDiary.json';
 
 const CONTRACT_ADDRESS = "0x78Bb667D7B9258F9CDe089F789b390896dcAdD72";
